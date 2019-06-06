@@ -27,7 +27,6 @@ public class JmsPutGet {
 	private static final String QUEUE_NAME = "DEV.QUEUE.1";
 
 	
-	
 	public static void main(String[] args) {
 
 		// TODO Auto-generated method stub
